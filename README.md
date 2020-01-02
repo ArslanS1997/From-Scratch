@@ -1,5 +1,5 @@
 # From Scratch
-Implementing ML algorithms without libaries, in order to illustrate understanding of the mathematical foundations
+Implementing ML algorithms without libaries, in order to illustrate understanding of the mathematical foundation of these algorithms
 
 Algorithms:
 # GMM
